@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
-dawcwdhfciyadhzc izh \n
-About this site
+## About ME
+My name is *Amogh Patil*, and I attend *Blane High School*.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
+
